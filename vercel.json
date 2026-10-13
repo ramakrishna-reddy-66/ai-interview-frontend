@@ -1,4 +1,5 @@
 {
+  "name": "24eg105v35",
   "rewrites": [
     {
       "source": "/(.*)",
